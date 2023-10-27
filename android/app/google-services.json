@@ -1,0 +1,29 @@
+ {
+  "project_info": {
+    "project_number": "547841833460",
+    "project_id": "kt-telematic-solutions",
+    "storage_bucket": "kt-telematic-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547841833460:android:ceff38b6b6d5438da9e1a1",
+        "android_client_info": {
+          "package_name": "com.example.kt_telematic_solutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFAqvDJxn3sVEQ01CHEpYRS9K1_-I_HJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
